@@ -81,7 +81,7 @@ Follow these steps to run the project on your computer.
 Open your terminal or VS Code terminal and type:
 
 ```bash
-git clone <YOUR-GITHUB-REPO-LINK>
+git clone <https://github.com/fedhawaq/data_science-day-2>
 ### 2 Run the Statistical Engine
 
 ``` bash   python src/stat_engine.py
